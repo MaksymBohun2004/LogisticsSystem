@@ -1,7 +1,7 @@
 # LogisticsSystem
 This module is as example of how a logistics system might be implemented using python
 Usage example:
-```python
+```
 Enter item you'd like to order:
 >>> Pizza
 The item you chose (Pizza) costs 70 UAH.
